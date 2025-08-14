@@ -45,4 +45,4 @@
 ```python
 pandas 
 matplotlib
-seaborn
+numpy

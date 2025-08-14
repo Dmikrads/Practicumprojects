@@ -1,6 +1,6 @@
 # 🐄 Прогнозирование продуктивности коров для фермерского хозяйства
 
-![Dairy Farm Analytics](https://images.unsplash.com/photo-1470114716159-e389f8712fda?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![Dairy Farm Analytics](https://images.unsplash.com/photo-1454179083322-198bb4daae41?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## 📝 Описание проекта
 

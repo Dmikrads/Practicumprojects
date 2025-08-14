@@ -1,6 +1,6 @@
 # 📊 Прогнозирование снижения покупательской активности для интернет-магазина
 
-![E-Commerce Analytics](https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![E-Commerce Analytics](https://images.unsplash.com/photo-1634973357973-f2ed2657db3c?q=80&w=3264&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## 📝 Описание проекта
 
@@ -46,8 +46,3 @@ sklearn
 optuna 
 scipy 
 imblearn
-
-
-model = LogisticRegression()
-model.fit(X_train, y_train)
-roc_auc = roc_auc_score(y_test, model.predict_proba(X_test)[:, 1])

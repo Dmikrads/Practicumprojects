@@ -1,6 +1,6 @@
 # 🚲 Анализ сервиса аренды самокатов GoFast
 
-![Scooter Sharing](https://images.unsplash.com/photo-1486401899868-0e435ed85128?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=80)
+![Scooter Sharing](https://images.unsplash.com/photo-1621447108182-92ad9852acd6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2Nvb3RlcnN8ZW58MHx8MHx8fDA%3D)
 
 ## 📝 Описание проекта
 **Цель исследования:** Анализ поведения пользователей сервиса аренды самокатов GoFast для оптимизации бизнес-модели и увеличения прибыли.

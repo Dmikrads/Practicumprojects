@@ -51,7 +51,3 @@
 pandas
 matplotlib
 scipy
-
-
-# Визуализация
-plt.style.use('ggplot')
